@@ -1,0 +1,18 @@
+
+.tableauGeneral {
+	color: white;
+	border-collapse: collapse;
+	background-color: #0dbf9b;
+	/* Les bordures du tableau seront collées (plus joli) */
+}
+
+
+
+.tableauGeneral th {
+	background-color: #0fd7af;
+}
+
+.tableauCompetence
+{
+	border-bottom: thin solid #eef6f4;
+}
